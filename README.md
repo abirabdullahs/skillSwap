@@ -1,6 +1,6 @@
 # assignment-09 (SkillSwap)
 
-Live URL: [(deployed URL here)](https://assignment-09-taupe.vercel.app/)
+Live URL: [(click to view)](https://assignment-09-taupe.vercel.app/)
 
 ## Purpose
 
