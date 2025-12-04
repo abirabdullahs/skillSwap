@@ -1,0 +1,86 @@
+[
+  {
+    "skillId": 1,
+    "skillName": "Beginner Guitar Lessons",
+    "providerName": "Alex Martin",
+    "providerEmail": "alex@skillswap.com",
+    "price": 25,
+    "rating": 4.8,
+    "slotsAvailable": 3,
+    "description": "Learn the basics of acoustic guitar playing, including chords, strumming, and simple songs. Perfect for beginners.",
+    "image": "https://i.postimg.cc/9FY3pCGm/guitar-lessons.jpg",
+    "category": "Music"
+  },
+  {
+    "skillId": 2,
+    "skillName": "Spoken English Practice",
+    "providerName": "Sara Hossain",
+    "providerEmail": "sara@skillswap.com",
+    "price": 15,
+    "rating": 4.6,
+    "slotsAvailable": 5,
+    "description": "Interactive English conversation sessions for non-native speakers. Focus on fluency and pronunciation.",
+    "image": "https://i.postimg.cc/3RcxdBYQ/spoken-english.jpg",
+    "category": "Language"
+  },
+  {
+    "skillId": 3,
+    "skillName": "Yoga for Beginners",
+    "providerName": "Ravi Patel",
+    "providerEmail": "ravi@skillswap.com",
+    "price": 20,
+    "rating": 4.9,
+    "slotsAvailable": 4,
+    "description": "Gentle yoga sessions focusing on flexibility, balance, and mindfulness. Suitable for all ages.",
+    "image": "https://i.postimg.cc/KjyJzNhF/yoga-class.jpg",
+    "category": "Health & Fitness"
+  },
+  {
+    "skillId": 4,
+    "skillName": "Basic Web Development",
+    "providerName": "Maya Rahman",
+    "providerEmail": "maya@skillswap.com",
+    "price": 30,
+    "rating": 4.7,
+    "slotsAvailable": 6,
+    "description": "Learn to build websites using HTML, CSS, and basic JavaScript. Perfect for aspiring developers.",
+    "image": "https://i.postimg.cc/vm1jmmpR/web-dev.jpg",
+    "category": "Technology"
+  },
+  {
+    "skillId": 5,
+    "skillName": "Photography Fundamentals",
+    "providerName": "John Lee",
+    "providerEmail": "john@skillswap.com",
+    "price": 18,
+    "rating": 4.5,
+    "slotsAvailable": 2,
+    "description": "Learn how to capture stunning photos with your DSLR or phone camera. Composition, lighting, and editing tips included.",
+    "image": "https://i.postimg.cc/VNpDQ5Kk/photography.jpg",
+    "category": "Art"
+  },
+  {
+    "skillId": 6,
+    "skillName": "Cooking Traditional Dishes",
+    "providerName": "Anika Sultana",
+    "providerEmail": "anika@skillswap.com",
+    "price": 12,
+    "rating": 4.9,
+    "slotsAvailable": 5,
+    "description": "Cook delicious homemade meals using simple ingredients. Learn Bengali, Thai, and Indian dishes.",
+    "image": "https://i.postimg.cc/65kFXk4J/cooking-class.jpg",
+    "category": "Cooking"
+  },
+  {
+    "skillId": 7,
+    "skillName": "Graphic Design Basics",
+    "providerName": "Kevin Diaz",
+    "providerEmail": "kevin@skillswap.com",
+    "price": 22,
+    "rating": 4.4,
+    "slotsAvailable": 3,
+    "description": "Introduction to design principles using Canva and Adobe Photoshop. Learn to create social media graphics and logos.",
+    "image": "https://i.postimg.cc/ZnHYk3KC/graphic-design.jpg",
+    "category": "Design"
+  }
+]
