@@ -100,7 +100,7 @@ const Navbar = () => {
                 <div className="flex justify-between items-center h-16">
                     {/* Logo */}
                     <div className="shrink-0">
-                        <Link to="/" className="text-2xl font-bold text-white hover:text-purple-200 transition-colors">
+                        <Link to="/" className="text-2xl font-bold text-purple-200 transition-colors">
                             SkillSwap
                         </Link>
                     </div>
